@@ -9,4 +9,4 @@ Additional materials:
 
    - LSTM [blog post](https://colah.github.io/posts/2015-08-Understanding-LSTMs/), [video](https://www.youtube.com/watch?v=8HyCNIVRbSU&t=356s&ab_channel=TheA.I.Hacker-MichaelPhi)
     
-   - Attention [blog post](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f) 
+   - Attention [intuition explained](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f) , [a detailed blog post](https://lilianweng.github.io/posts/2018-06-24-attention/)
