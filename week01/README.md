@@ -1,2 +1,2 @@
 # speech_processing
-[Lecture notes](https://docs.google.com/presentation/d/1SgddE9nY7s7CDN7y0q3xtur4ixN1-mbY-5LBge8dJvE/edit#slide=id.g124bd0b62d3_0_5)
+[Lecture notes](https://docs.google.com/presentation/d/1qMk5vurwfkBRKBZt9WaACpd71nAj69Gc_tA5OHnkJ80/edit?usp=sharing)
