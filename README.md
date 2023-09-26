@@ -1,2 +1,3 @@
-# speech_processing
+# NLP & Speech Processing
+
 Lecture materials on deep learning applications
