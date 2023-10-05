@@ -1,4 +1,5 @@
 # Language modeling
+Lecture [slides](https://docs.google.com/presentation/d/1hACMQuqv8DhYkljsY0tf7lKuNnJkKNPnghPRBxzajus/edit?usp=sharing)
 
 Additional materials:
 
